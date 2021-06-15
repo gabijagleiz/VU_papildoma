@@ -2,8 +2,8 @@
 # Paskirtis
 Programa skirta suskaičiuoti, kiek kartų kiekvienas skirtingas žodis pasikartoja tekste, iš to teksto išrinkti visus URL adresus
 # Veikimo principas
-Paleidus programą vartotojo prašoma įvesti tekstinio failo pavadinimą. Failo tipo įvesti nereikia (.txt).
-Ekrane išvedami pasikartojantys žodžiai ir URL adresai.
+Paleidus programą failas yra automatiškai nuskaitomas.
+Ekrane išvedami tekste esantys URL adresai. Yra sukuriami "Rezultatai.txt" ir "Lentele.txt" failai
 # Programos įdiegimas
 - Atsisiųskite 1.0 programos versiją iš [releases](https://github.com/gabijagleiz/VU_papildoma/releases)
 - Išsiarchivuokite failą
