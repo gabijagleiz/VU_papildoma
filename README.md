@@ -1,6 +1,6 @@
 # VU_papildoma
 # Paskirtis
-Programa skirta suskaičiuoti, kiek kartų kiekvienas skirtingas žodis pasikartoja tekste, iš to teksto išrinkti visus URL adresus
+Programa skirta suskaičiuoti, kiek kartų kiekvienas skirtingas žodis pasikartoja tekste bei kuriose eilutėse, iš to teksto išrinkti visus URL adresus.
 # Veikimo principas
 Paleidus programą failas yra automatiškai nuskaitomas.
 Ekrane išvedami tekste esantys URL adresai. Yra sukuriami "Rezultatai.txt" ir "Lentele.txt" failai
